@@ -23,7 +23,7 @@ path.closeSubpath()
 struct ContentView: View {
     var body: some View {
         ZStack{
-            //Text("嘿嘿～")
+            Text("嘿嘿～")
             //.font(.system(size: 20, weight: .heavy, design: .rounded))
             //.shadow(radius: 10)
             //.blendMode(.overlay)
